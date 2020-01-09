@@ -1,2 +1,2 @@
 # neptune-express
- Porting my previous project Neptune Currency API on Node.JS Platform with ExpressJS and MongoDB
+ Migration of my previous project "Neptune Currency API" (neptune) to Node.JS platform with ExpressJS and MongoDB
